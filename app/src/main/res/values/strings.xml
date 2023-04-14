@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Birthday Wish </string>
+    <string name="hope_your_special_day_brings_you_all_that_your_heart_desires">Hope your special day brings you all that your heart desires.</string>
+    <string name="happy_birthday">Happy Birthday</string>
+    <string name="upperImg">UpperImg</string>
+    <string name="enter_your_name">Enter your name</string>
+    <string name="submit">SUBMIT</string>
+    <string name="todo1">TODO</string>
+    <string name="lowerImg">LowerImg</string>
+</resources>
